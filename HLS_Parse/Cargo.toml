@@ -1,0 +1,10 @@
+[package]
+name = "hls-parsing"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+anyhow = "1"
+
+[dev-dependencies]
+indoc = "2"
